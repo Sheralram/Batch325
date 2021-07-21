@@ -4,6 +4,7 @@ class Helloworld
             {while(true)
                {
                       System.out.println("Hello world & How are you ");
+                      System.out.println("Hello world & Hello INDIA ");
                        try
                       {
                          Thread.sleep(10000);
